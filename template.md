@@ -1,20 +1,16 @@
 #<タイトル>
-種別：kindle/pdf/紙/web
-プロジェクト：生活/スキル/音楽/エンタメ/仕事
-開始１：yyyy/mm/dd
-終了１：yyyy/mm/dd
-開始２：yyyy/mm/dd
-終了２：yyyy/mm/dd
+
+    種別：kindle/pdf/紙/web
+    プロジェクト：生活/スキル/音楽/エンタメ/仕事
+    開始１：yyyy/mm/dd
+    終了１：yyyy/mm/dd
+    開始２：yyyy/mm/dd
+    終了２：yyyy/mm/dd
 
 # メモ
 ## sec1
-GAPでシャツ、コットンパンツ
-→梅田でGAPどこ→大丸梅田とグランフロント
-バナナリパブリック 大丸梅田
-スーツカンパニーでジャケット
-アントニオ・ラヴェルダ
-やっぱりユナイテッドアローズ最強
-アウターやジャケット、小物(靴とか)
+aaaaaaaaaaa
+aaaaaaaaaaaaaaa
 
 # LOG
 - yyyy/mm/dd 425
