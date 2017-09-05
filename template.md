@@ -1,4 +1,4 @@
-#<タイトル>
+# <タイトル>
 
     種別：kindle/pdf/紙/web
     プロジェクト：生活/スキル/音楽/エンタメ/仕事
@@ -14,3 +14,6 @@ aaaaaaaaaaaaaaa
 
 # LOG
 - yyyy/mm/dd 425
+
+# back
+[目次](README.md)
