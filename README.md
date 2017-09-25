@@ -1,6 +1,9 @@
 # 読書記録
 読書の記録を取っていきます。
 
+# github pages
+[github pages](https://modeverv.github.io/reading_log/)
+
 # 目次
 * [コーチングの技術](coting.md)
 * [エラスティックリーダーシップ](elasticreadership.md)
