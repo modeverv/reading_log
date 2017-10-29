@@ -12,6 +12,8 @@
 * [実例で見る！ストレスゼロの超速資料作成術](jiturei_stresszero.md)
 * [1440分の使い方](1440.md)
 * [般若心経講義](buddhism.md)
+* [実践！タイムマネジメント研修](timemanagement.md)
+* [降りてくる思考法](downthink.md)
 
 # Last Modify
 * 2017/10/26
