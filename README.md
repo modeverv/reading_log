@@ -14,6 +14,7 @@
 * [般若心経講義](buddhism.md)
 * [実践！タイムマネジメント研修](timemanagement.md)
 * [降りてくる思考法](downthink.md)
+* [あらゆる本が面白く読める方法](howtoread.md)
 
 # Last Modify
 * 2017/10/26
