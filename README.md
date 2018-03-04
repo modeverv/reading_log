@@ -1,9 +1,13 @@
 # 読書記録
+
 読書の記録を取っていきます。
-# github pages
+
+## github pages
+
 [github pages](https://modeverv.github.io/reading_log/)
 
-# 目次
+## 目次
+
 * [コーチングの技術](coting.md)
 * [エラスティックリーダーシップ](elasticreadership.md)
 * [できれば服にお金と時間を使いたくないひとのための一生使える服選びの法則](fukuerabi.md)
@@ -15,6 +19,9 @@
 * [実践！タイムマネジメント研修](timemanagement.md)
 * [降りてくる思考法](downthink.md)
 * [あらゆる本が面白く読める方法](howtoread.md)
+* [ライフハック大全](lifehack_complete.md)
+* [WEB+DBvol74](web+db74.md)
 
-# Last Modify
-* 2017/10/26
+## Last Modify
+
+* 2018/01/04
