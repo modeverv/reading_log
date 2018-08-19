@@ -21,7 +21,8 @@
 * [あらゆる本が面白く読める方法](howtoread.md)
 * [ライフハック大全](lifehack_complete.md)
 * [WEB+DBvol74](web+db74.md)
+* [マーケティング22の法則](marketing22.md)
 
 ## Last Modify
 
-* 2018/01/04
+* 2018/08/19
