@@ -22,6 +22,7 @@
 * [ライフハック大全](lifehack_complete.md)
 * [WEB+DBvol74](web+db74.md)
 * [マーケティング22の法則](marketing22.md)
+* [エンジニアリング組織論への招待](engineer.md)
 
 ## Last Modify
 
