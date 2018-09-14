@@ -23,7 +23,9 @@
 * [WEB+DBvol74](web+db74.md)
 * [マーケティング22の法則](marketing22.md)
 * [エンジニアリング組織論への招待](engineer.md)
+* [プロフェッショナルIPv6](proipv6.md)
+* [「読む力」と「地頭力」がいっきに身につく東大読書](todairead.md)
 
 ## Last Modify
 
-* 2018/08/19
+* 2018/09/15
