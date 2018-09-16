@@ -15,8 +15,6 @@
 
 ## アウトプット
 
-aaaaaaaaaaaaaa
-
 ## NEXT
 
 ## LOG
