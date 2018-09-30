@@ -25,6 +25,7 @@
 * [エンジニアリング組織論への招待](engineer.md)
 * [プロフェッショナルIPv6](proipv6.md)
 * [「読む力」と「地頭力」がいっきに身につく東大読書](todairead.md)
+* [起業３年目までの教科書　はじめてのキャッシュエンジン経営](cashengine.md)
 
 ## Last Modify
 
