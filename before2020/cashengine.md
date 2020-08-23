@@ -22,5 +22,5 @@
 
 ## back
 
-[目次](README.md)
+[目次](../README.md)
 

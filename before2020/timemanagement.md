@@ -31,5 +31,5 @@ NGワード
 - 2017/10/29 読了
 
 # back
-[目次](README.md)
+[目次](../README.md)
 
