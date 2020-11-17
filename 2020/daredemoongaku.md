@@ -13,12 +13,12 @@
 音名
 ### part02
 
-![](music/ScreenShot.png)
-![](music/ScreenShot%202.png)
-![](music/ScreenShot%203.png)
-![](music/ScreenShot%203.png)
-![](music/ScreenShot%204.png)
-![](music/ScreenShot%205.png)
+![](daredemo/ScreenShot.png)
+![](daredemo/ScreenShot%202.png)
+![](daredemo/ScreenShot%203.png)
+![](daredemo/ScreenShot%203.png)
+![](daredemo/ScreenShot%204.png)
+![](daredemo/ScreenShot%205.png)
 
 全全半全全全半
 ナチュラル・マイナー・スケール
