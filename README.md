@@ -10,6 +10,8 @@
 ### 2020年
 * [図解・最新 難しいことはわかりませんが、お金の増やし方を教えて下さい！](2020/increase_money.md)
 * [エンジニア生き残り](2020/survive_as_engineer.pdf)
+* [Clean Architecture 達人に学ぶソフトウェアの構造と設計](2020/cleanarchitecture.md)
+* [誰でもわかるコード理論](2020/daredemoongaku.md)
 
 ### 2020年まで
 * [コーチングの技術](before2020/coting.md)
