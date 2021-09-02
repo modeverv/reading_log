@@ -7,6 +7,8 @@
 [github pages](https://modeverv.github.io/reading_log/)
 
 ## 目次
+### 2021年
+* [転職の思考法](2021/tenshoku_think.md)
 ### 2020年
 * [図解・最新 難しいことはわかりませんが、お金の増やし方を教えて下さい！](2020/increase_money.md)
 * [エンジニア生き残り](2020/survive_as_engineer.pdf)
