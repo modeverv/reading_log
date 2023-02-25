@@ -7,6 +7,12 @@
 [github pages](https://modeverv.github.io/reading_log/)
 
 ## 目次
+* []()
+* [良いコード／悪いコード](2023/goodcode-badcode.md)
+* [詳細システムパフォーマンス第２版](2023/detail-system2.md)
+* [圏論の基本](2023/kenron.md)
+* [マイクロサービスアーキテクチャ２版]()
+
 ### 2021年
 * [転職の思考法](2021/tensyoku_think.md)
 * [人間不平等起源論](2021/HumanNotEqual.md)
