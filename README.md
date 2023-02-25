@@ -6,6 +6,11 @@
 
 [github pages](https://modeverv.github.io/reading_log/)
 
+
+## Last Modify
+
+* 2023/02/25
+
 ## 目次
 * []()
 * [良いコード／悪いコード](2023/goodcode-badcode.md)
@@ -44,7 +49,3 @@
 * [起業３年目までの教科書　はじめてのキャッシュエンジン経営](before2020/cashengine.md)
 * [外資系コンサルが実践する図解作成の基本](before2020/zukai.md)
 * [外資系コンサルが実践する資料作成の基本](before2020/zukaikihon.md)
-
-## Last Modify
-
-* 2020/08/23
